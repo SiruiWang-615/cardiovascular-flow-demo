@@ -1,0 +1,8 @@
+{
+  "sample": "0517",
+  "geometry_points": 55935,
+  "query_points": 535371,
+  "velocity_component_MAE_m_s": 0.1017490029335022,
+  "velocity_component_RMSE_m_s": 0.1467326283454895,
+  "inference": "NumPy float32 forward pass matching provided model.py and HDF5 weights; not TensorFlow runtime validated"
+}
